@@ -14,7 +14,7 @@ function Login() {
   const [userType, setUserType] = useState("CUSTOMER")
   const [error, setError] = useState(false)
 
-  const navigate = useNavigate();
+
 
  
 
